@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lms_dark_001/core/theme/theme.dart';
 import 'package:lms_dark_001/features/login/presentation/screens/login_screen.dart';
 
 void main() {
@@ -13,11 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'LMS Dark',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(
-            seedColor: const Color.fromRGBO(59, 131, 247, 1)),
-        useMaterial3: true,
-      ),
+      theme: AppTheme.darkThemeMode,
       home: const LoginScreen(),
     );
   }
