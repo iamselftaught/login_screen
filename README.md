@@ -1,16 +1,15 @@
-# lms_dark_001
+# LMS Login Screen
 
-A new Flutter project.
+In this project, I created a login screen inspired by a Dribbble design.
 
-## Getting Started
+## Credits
 
-This project is a starting point for a Flutter application.
+1. Social media icons and book logo icon are from [FLATICON](https://www.flaticon.com/)
+2. Dribbble design by [Md. Shahadat Hussain](https://dribbble.com/shots/24177762-LMS-Mobile-App-Design-Dark)
 
-A few resources to get you started if this is your first Flutter project:
+## Inspiration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Login Screen](inspiration.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Outcome
+ ![Login Screen](image.png)
